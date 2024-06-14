@@ -42,19 +42,18 @@
 
 如果您觉得我们的项目对您有帮助，请引用我们的[论文](https://dl.acm.org/doi/abs/10.1145/3613904.3642899)：
 
-> @inproceedings{10.1145/3613904.3642899,
-> author = {Tang, Yilin and Chen, Liuqing and Chen, Ziyu and Chen, Wenkai and Cai, Yu and Du, Yao and Yang, Fan and Sun, Lingyun},
-> title = {EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Children with High-Function Autism},
-> year = {2024},
-> isbn = {9798400703300},
-> publisher = {Association for Computing Machinery},
-> address = {New York, NY, USA},
-> url = {https://doi.org/10.1145/3613904.3642899},
-> doi = {10.1145/3613904.3642899},
-> booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
-> articleno = {1001},
-> numpages = {20},
-> location = {<conf-loc>, <city>Honolulu</city>, <state>HI</state>, <country>USA</country>, </conf-loc>},
-> series = {CHI '24}
-> }
-
+    @inproceedings{10.1145/3613904.3642899,
+    author = {Tang, Yilin and Chen, Liuqing and Chen, Ziyu and Chen, Wenkai and Cai, Yu and Du, Yao and Yang, Fan and Sun, Lingyun},
+    title = {EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Children with High-Function Autism},
+    year = {2024},
+    isbn = {9798400703300},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3613904.3642899},
+    doi = {10.1145/3613904.3642899},
+    booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
+    articleno = {1001},
+    numpages = {20},
+    location = {<conf-loc>, <city>Honolulu</city>, <state>HI</state>, <country>USA</country>, </conf-loc>},
+    series = {CHI '24}
+    }
